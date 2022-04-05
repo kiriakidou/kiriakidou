@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Niki Kiriakidou
-- 👀 I’m interested in causal inference and machine learning.
-- 🌱 I’m currently...trying....to learn...as much as I can! 
 - 📫 How to reach me: kiriakidou@hua.gr
 
 <!---
